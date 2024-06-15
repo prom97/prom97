@@ -7,12 +7,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,jquery,bootstrap,tailwind,figma,github,mysql,vscode" />
   </a>
 </p>
-
-<br />
-
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloDamianRomero&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prom97&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
