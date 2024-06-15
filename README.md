@@ -8,6 +8,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,jquery,bootstrap,tailwind,figma,github,mysql,vscode" />
   </a>
 </p>
+
 # 📊 GitHub Stats:
 <div align="center">
 
